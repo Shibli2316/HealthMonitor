@@ -3,3 +3,5 @@
 //}
 
 window.alert("Welcome");
+document.querySelector('.heading').innerHTML = "Hey there welcome to my health care app";
+
